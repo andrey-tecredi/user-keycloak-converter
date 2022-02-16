@@ -29,3 +29,8 @@ node .\execute.js
 ```
 
 Depois é só abrir o painel do Keycloak e importar os dados.
+
+
+## E o que é aquela pasta **users** lá?
+São apenas os dados de usuários raw que eu gerei do banco oficial e resolvi deixá-los na pasta do projeto só como exemplos.
+
